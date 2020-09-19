@@ -6,6 +6,9 @@ RENCANA PROJECT NUR FAUZI
     - variabel
     - kalkulator
   * Video Tutorial Bahasa Java
+    - Tipe data
+    - variabel
+    - kalkulator
   * Video Algoritma
 -Vlogger
 -Android Developer
