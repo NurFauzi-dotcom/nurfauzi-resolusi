@@ -3,6 +3,8 @@ RENCANA PROJECT NUR FAUZI
 -Youtuber
   * Video Tutorial Bahasa C
   * Video Tutorial Bahasa Java
+    - Tipe data
+    - variabel
   * Video Algoritma
 -Vlogger
 -Android Developer
