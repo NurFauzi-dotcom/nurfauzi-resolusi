@@ -2,6 +2,9 @@ RENCANA PROJECT NUR FAUZI
 
 -Youtuber
   * Video Tutorial Bahasa C
+    - tipe data
+    - variabel
+    - kalkulator
   * Video Tutorial Bahasa Java
   * Video Algoritma
 -Vlogger
